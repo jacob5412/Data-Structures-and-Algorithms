@@ -1,3 +1,5 @@
+/*Program to find a solution for the greedy knapsack problem*/
+
 #include<stdio.h>
  
 void knapsack(int n, float weight[], float profit[], float capacity) {

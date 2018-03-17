@@ -1,12 +1,17 @@
+/*Program for implementing circular queue*/
+
 #include<stdio.h>
 #include<stdlib.h> 
+
 #define max_size 10
 int cqueue[max_size],front=-1,rear=-1;
+
 void insert();
 void del();
 void display();
 int isFull();
 int isEmpty();
+
 int main()
 {
         int choice;

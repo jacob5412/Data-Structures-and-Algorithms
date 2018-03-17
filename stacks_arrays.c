@@ -1,3 +1,4 @@
+/* Program for creating a stack using an array*/
 #include<stdio.h> 
 #include<stdlib.h>
 int max=10,top=-1,s[10],choice;

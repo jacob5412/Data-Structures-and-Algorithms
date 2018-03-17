@@ -1,9 +1,13 @@
+/*Program for implementing a linear queue*/
 #include<stdio.h> 
 #include<stdlib.h> 
+
 #define MAX 10
+
 int queue_arr[MAX];
 int rear = -1;
 int front = -1;
+
 void insert(int item);
 int del();
 int peek();

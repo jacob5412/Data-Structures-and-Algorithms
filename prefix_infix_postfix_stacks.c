@@ -1,3 +1,5 @@
+/*Program for infix, postfix and prefix using stack*/
+
 #include<stdio.h>
 #include<ctype.h>
 #include<stdlib.h>
