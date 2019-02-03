@@ -22,6 +22,8 @@ Given below are all the __C Programs__ present in this repository, in alphabetic
 14. Selection Sort
 15. Single linked list
 16. Stack using array
+17. Quick Sort
+18. Longest increasing subsequence implementation
 
 ## Contribution
 
