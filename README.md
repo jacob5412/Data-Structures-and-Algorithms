@@ -23,9 +23,10 @@ Given below are all the __C Programs__ present in this repository, in alphabetic
 15. Single linked list
 16. Stack using array
 
-## Authors
+## Contribution
 
 * **Jacob John** - *Initial work* - [jacobjohn2016](github.com/jacobjohn2016/)
+* **Aditya Ramesh** - *`Quick sort` and `Longest increasing subsequence implementation`*- [RameshAditya](github.com/RameshAditya/)
 
 ## Acknowledgments
 
