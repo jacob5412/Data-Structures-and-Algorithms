@@ -4,7 +4,7 @@ This repository contains all the data structures and algorithms assignments unde
 
 ## Exercises
 
-Given below are all the __C Programs__ present in this repository, in alphabetical order:
+Given below are all the __C & C++ Programs__ present in this repository, in alphabetical order:
 
 1. Binary Search Tree
 2. Breadth First Search
