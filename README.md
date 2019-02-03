@@ -25,8 +25,8 @@ Given below are all the __C Programs__ present in this repository, in alphabetic
 
 ## Contribution
 
-* **Jacob John** - *Initial work* - [jacobjohn2016](github.com/jacobjohn2016/)
-* **Aditya Ramesh** - *`Quick sort` and `Longest increasing subsequence implementation`*- [RameshAditya](github.com/RameshAditya/)
+* **Jacob John** - *Initial work* - [jacobjohn2016](https://github.com/jacobjohn2016/)
+* **Aditya Ramesh** - *`Quick sort` and `Longest increasing subsequence implementation`*- [RameshAditya](https://github.com/RameshAditya/)
 
 ## Acknowledgments
 
